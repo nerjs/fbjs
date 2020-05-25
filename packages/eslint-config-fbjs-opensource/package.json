@@ -15,7 +15,7 @@
   "dependencies": {
     "babel-eslint": "^7.2.3",
     "eslint-plugin-babel": "^4.1.1",
-    "eslint-plugin-flowtype": "^2.35.0",
+    "eslint-plugin-flowtype": "^2.50.3",
     "eslint-plugin-jasmine": "^2.2.0",
     "eslint-plugin-prefer-object-spread": "^1.1.0",
     "eslint-plugin-react": "^7.1.0",
